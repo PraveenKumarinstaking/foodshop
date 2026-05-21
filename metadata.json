@@ -1,0 +1,6 @@
+{
+  "name": "BiteSpeed Namakkal",
+  "description": "Localized Food Ordering & Delivery Network for Namakkal, Tamil Nadu. Complete with easy demo access for Customers, Merchants, Riders, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
